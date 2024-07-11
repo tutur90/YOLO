@@ -2,3 +2,4 @@
 /weights/*
 /annot/*
 /data/*
+!annot/Puente_guambra2_tracking_process.csv
